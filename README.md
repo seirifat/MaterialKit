@@ -7,8 +7,6 @@
 [![Issues](https://img.shields.io/github/issues/ApolloZhu/MaterialKit.svg)](https://github.com/ApolloZhu/MaterialKit/issues?state=open)
 [![Up Stream Issues](https://img.shields.io/github/issues/nghialv/MaterialKit.svg)](https://github.com/nghialv/MaterialKit/issues?state=open)
 
-#### NOTE: The ***upstream*** project is no longer maintained.
-
 Material design components (inspired by [Google Material Design](https://material.io/guidelines/material-design/introduction.html)) for iOS, written in Swift
 
 Please feel free to make pull requests.
